@@ -34,6 +34,7 @@ export const metadata: Metadata = {
       "Quick, private tools for writing, numbers, passwords, and code. Nothing to install, nothing uploaded.",
     type: "website",
   },
+  authors: [{ name: "Alexander Williams" }],
 };
 
 export default function RootLayout({

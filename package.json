@@ -1,6 +1,7 @@
 {
   "name": "site-creator-vinext-starter",
   "version": "0.1.0",
+  "author": "Alexander Williams",
   "private": true,
   "engines": {
     "node": ">=22.13.0"
